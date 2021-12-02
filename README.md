@@ -18,4 +18,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan1622&" alt="gunjan1622" /></p>
 
-
+## Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HemanthSai7&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthSai7&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthSai7&theme=tokyonight" align="center" />
+</p>

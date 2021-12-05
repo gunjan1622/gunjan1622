@@ -24,9 +24,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <h3 align="center">
-<img width="60%" align="centre" alt="Github Image" src="https://github.com/gunjan1622/gunjan1622/blob/main/assets/Group%201%20(1).png" />
+<img width="60%" align="centre" alt="Github Image" src="https://github.com/gunjan1622/gunjan1622/blob/main/assets/Group%201.svg" />
 </h3>
-<br>
 
 
 

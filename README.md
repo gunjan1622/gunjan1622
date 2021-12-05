@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Gunjan Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img width="28%" align="right" alt="Github Image" src="https://github.com/gunjan1622/gunjan1622/blob/main/assets/2.gif" />
+<img width="20%" align="right" alt="Github Image" src="https://github.com/gunjan1622/gunjan1622/blob/main/assets/2.gif" />
 
 - 🌱 I’m currently learning **Tensorflow and MongoDB**
 
@@ -23,10 +23,11 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<img width="100%" align="right" alt="Github Image" src="https://github.com/gunjan1622/gunjan1622/blob/main/assets/collage.png" />
+<h3 align="center">
+<img width="60%" align="centre" alt="Github Image" src="https://github.com/gunjan1622/gunjan1622/blob/main/assets/Group%201%20(1).png" />
+</h3>
 <br>
-<br>
-<br>
+
 
 
 

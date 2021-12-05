@@ -14,7 +14,7 @@
 
 - 😀 I'll try to contribute more to **Open Source** this year
 
-- ⚡ Fun fact **I'm an Cosmofile and an Optimist**
+- ⚡ Fun fact **I'm an Cosmophile and an Optimist**
 
 
 <p align="left">
